@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "475178546877",
+    "project_id": "flashino-7134a",
+    "storage_bucket": "flashino-7134a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475178546877:android:79d3ea5503c1fc79ad69d4",
+        "android_client_info": {
+          "package_name": "edukondalujoga.com.flashino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475178546877-su1cie1h3211vcugordopvnq0bbist77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqwS5Jq6SfgoyNvdQ_MbHKSdYoORPfDnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475178546877-su1cie1h3211vcugordopvnq0bbist77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
